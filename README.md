@@ -6,19 +6,7 @@ iOS 질문을 아래 카테고리에 따라 나눠 내용을 정리하였습니�
 
 
 ## 카테고리
-- struct와 class
-- ARC
-- Optional
-- 객체지향 프로그래밍 (OOP, Object Oriented Programming)
-- 프로토콜 지향 프로그래밍 (POP, Protocol Oriented Programming)
-- 함수형 프로그래밍
-- 제네릭
-- Error Handling
-- Collection
-- Extension
-- Delegate VS Notification Center
-- 성능 최적화
-- 동시성 프로그래밍
+- Swift
 - IOS Frameworks - UIKit
 - IOS Frameworks - SwiftUI
 - Networking
